@@ -745,3 +745,21 @@ h2.price {
     background-image: none;
     background-color: #df5c39;
 }
+
+
+
+.dsl-google-plus {
+	  background: #dd4b39;
+	  border-radius: 0;
+	  color: #fff;
+	  border-width: 1px;
+	  border-style: solid;
+	  border-color: #b72213;
+	}
+	.dsl-google-plus:link, .dsl-google-plus:visited {
+	  color: #fff;
+	}
+	.dsl-google-plus:active, .dsl-google-plus:hover {
+	  background: #be3e2e;
+	  color: #fff;
+	}

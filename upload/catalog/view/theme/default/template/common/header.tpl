@@ -42,6 +42,7 @@
   <div class="container">
     <?php echo $currency; ?>
     <?php echo $language; ?>
+		<a href="index.php?route=module/d_social_login/login&amp;provider=Google" class="btn dsl-google-plus btn-small"><i class="fa fa-google-plus fa-fw"></i> Google+</a>
     <div id="top-links" class="nav pull-right">
       <ul class="list-inline">
         <li><a href="<?php echo $contact; ?>"><i class="fa fa-phone"></i></a> <span class="hidden-xs hidden-sm hidden-md"><?php echo $telephone; ?></span></li>
